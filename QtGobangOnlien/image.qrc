@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/black.png</file>
+        <file>image/chessboard_background.png</file>
+        <file>image/white.png</file>
+        <file>image/black2.png</file>
+        <file>image/down7.wav</file>
+        <file>image/select.mp3</file>
+        <file>image/white2.png</file>
+    </qresource>
+</RCC>
